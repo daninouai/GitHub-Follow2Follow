@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wX4Bee7Z//Q=",
+  "success": true,
+  "projectFilePath": "/home/danial/Desktop/corenet/follow2follow/follow2follow/follow2follow.csproj",
+  "expectedPackageFiles": [
+    "/home/danial/.nuget/packages/htmlagilitypack/1.11.71/htmlagilitypack.1.11.71.nupkg.sha512",
+    "/home/danial/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+/home/danial/Desktop/corenet/follow2follow/follow2follow/bin/Debug/net8.0/follow2follow
+/home/danial/Desktop/corenet/follow2follow/follow2follow/bin/Debug/net8.0/follow2follow.deps.json
+/home/danial/Desktop/corenet/follow2follow/follow2follow/bin/Debug/net8.0/follow2follow.runtimeconfig.json
+/home/danial/Desktop/corenet/follow2follow/follow2follow/bin/Debug/net8.0/follow2follow.dll
+/home/danial/Desktop/corenet/follow2follow/follow2follow/bin/Debug/net8.0/follow2follow.pdb
+/home/danial/Desktop/corenet/follow2follow/follow2follow/obj/Debug/net8.0/follow2follow.GeneratedMSBuildEditorConfig.editorconfig
+/home/danial/Desktop/corenet/follow2follow/follow2follow/obj/Debug/net8.0/follow2follow.AssemblyInfoInputs.cache
+/home/danial/Desktop/corenet/follow2follow/follow2follow/obj/Debug/net8.0/follow2follow.AssemblyInfo.cs
+/home/danial/Desktop/corenet/follow2follow/follow2follow/obj/Debug/net8.0/follow2follow.csproj.CoreCompileInputs.cache
+/home/danial/Desktop/corenet/follow2follow/follow2follow/obj/Debug/net8.0/follow2follow.dll
+/home/danial/Desktop/corenet/follow2follow/follow2follow/obj/Debug/net8.0/refint/follow2follow.dll
+/home/danial/Desktop/corenet/follow2follow/follow2follow/obj/Debug/net8.0/follow2follow.pdb
+/home/danial/Desktop/corenet/follow2follow/follow2follow/obj/Debug/net8.0/follow2follow.genruntimeconfig.cache
+/home/danial/Desktop/corenet/follow2follow/follow2follow/obj/Debug/net8.0/ref/follow2follow.dll
+/home/danial/Desktop/corenet/follow2follow/follow2follow/bin/Debug/net8.0/HtmlAgilityPack.dll
+/home/danial/Desktop/corenet/follow2follow/follow2follow/obj/Debug/net8.0/follow2follow.csproj.AssemblyReference.cache
+/home/danial/Desktop/corenet/follow2follow/follow2follow/obj/Debug/net8.0/follow2follow.csproj.CopyComplete
