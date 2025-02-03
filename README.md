@@ -13,12 +13,5 @@ A C# program to check the "follow-back" status on GitHub by scraping a user's fo
 - [.NET Core SDK](https://dotnet.microsoft.com/download) (version 5.0 or later)
 - [HtmlAgilityPack](https://html-agility-pack.net/) library for HTML parsing
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/github-follow-checker.git
-   cd github-follow-checker
-
 ## Authors
 * [daninouai](https://github.com/daninouai)
